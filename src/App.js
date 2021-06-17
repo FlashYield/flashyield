@@ -19,7 +19,7 @@ function App() {
   });
   const [loanData, setLoanData] = useState({
     amount: 25,
-    tokenFee: 0.00001,
+    tokenFee: 0.01,
     swapFee: 0,
     totalFee: 0,
     gain: 0,
