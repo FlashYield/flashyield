@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/flash-loan-react/static/css/main.539bb050.chunk.css",
-    "main.js": "/flash-loan-react/static/js/main.6c65f4fd.chunk.js",
-    "main.js.map": "/flash-loan-react/static/js/main.6c65f4fd.chunk.js.map",
-    "runtime-main.js": "/flash-loan-react/static/js/runtime-main.166ef3cd.js",
-    "runtime-main.js.map": "/flash-loan-react/static/js/runtime-main.166ef3cd.js.map",
-    "static/js/2.eb8f6d41.chunk.js": "/flash-loan-react/static/js/2.eb8f6d41.chunk.js",
-    "static/js/2.eb8f6d41.chunk.js.map": "/flash-loan-react/static/js/2.eb8f6d41.chunk.js.map",
-    "index.html": "/flash-loan-react/index.html",
-    "static/css/main.539bb050.chunk.css.map": "/flash-loan-react/static/css/main.539bb050.chunk.css.map",
-    "static/js/2.eb8f6d41.chunk.js.LICENSE.txt": "/flash-loan-react/static/js/2.eb8f6d41.chunk.js.LICENSE.txt",
-    "static/media/bnbIcon.12f6ca37.png": "/flash-loan-react/static/media/bnbIcon.12f6ca37.png",
-    "static/media/eth_icon.664d214a.png": "/flash-loan-react/static/media/eth_icon.664d214a.png",
-    "static/media/flashyield.93debc7c.png": "/flash-loan-react/static/media/flashyield.93debc7c.png",
-    "static/media/loader.f555f7b3.svg": "/flash-loan-react/static/media/loader.f555f7b3.svg"
+    "main.css": "/flashloan/static/css/main.539bb050.chunk.css",
+    "main.js": "/flashloan/static/js/main.a8e5628c.chunk.js",
+    "main.js.map": "/flashloan/static/js/main.a8e5628c.chunk.js.map",
+    "runtime-main.js": "/flashloan/static/js/runtime-main.be0d4fbc.js",
+    "runtime-main.js.map": "/flashloan/static/js/runtime-main.be0d4fbc.js.map",
+    "static/js/2.c8d89747.chunk.js": "/flashloan/static/js/2.c8d89747.chunk.js",
+    "static/js/2.c8d89747.chunk.js.map": "/flashloan/static/js/2.c8d89747.chunk.js.map",
+    "index.html": "/flashloan/index.html",
+    "static/css/main.539bb050.chunk.css.map": "/flashloan/static/css/main.539bb050.chunk.css.map",
+    "static/js/2.c8d89747.chunk.js.LICENSE.txt": "/flashloan/static/js/2.c8d89747.chunk.js.LICENSE.txt",
+    "static/media/bnbIcon.12f6ca37.png": "/flashloan/static/media/bnbIcon.12f6ca37.png",
+    "static/media/eth_icon.664d214a.png": "/flashloan/static/media/eth_icon.664d214a.png",
+    "static/media/flashyield.93debc7c.png": "/flashloan/static/media/flashyield.93debc7c.png",
+    "static/media/loader.f555f7b3.svg": "/flashloan/static/media/loader.f555f7b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.166ef3cd.js",
-    "static/js/2.eb8f6d41.chunk.js",
+    "static/js/runtime-main.be0d4fbc.js",
+    "static/js/2.c8d89747.chunk.js",
     "static/css/main.539bb050.chunk.css",
-    "static/js/main.6c65f4fd.chunk.js"
+    "static/js/main.a8e5628c.chunk.js"
   ]
 }
