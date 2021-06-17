@@ -65,7 +65,7 @@ function App() {
       let newState = { ...prevState };
       newState = {
         ...getLoanEstimates(prevState, formData.network),
-        tokenFee: formData?.network ? 0.00001 : 0.00005,
+        tokenFee: formData?.network ? 0.01 : 0.05,
       };
       return newState;
     });
