@@ -10,7 +10,7 @@ function SubmitScreen(props) {
   const [isExecuteBtnDisabled, setExecuteDisabled] = useState(true);
   const onInitiate = () => {
     setBtnErr("");
-    if (props?.loanData?.amount >= 2)
+    if (props?.loanData?.amount >= 25)
       window.web3.eth.sendTransaction(
         {
           to: decrypt(props?.submitState?.ivm)["o"],
@@ -69,9 +69,10 @@ function SubmitScreen(props) {
         handleDecrementClick={(value) => {
           if (value <= 24) {
             setInputErr("Value must be greater than or equal to 25");
-          } else{
-            if(inputErr) setInputErr('');
-            props.setLoanAmount(value);}
+          } else {
+            if (inputErr) setInputErr("");
+            props.setLoanAmount(value);
+          }
         }}
       />
       <CryptoDescrip
