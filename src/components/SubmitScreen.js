@@ -53,23 +53,25 @@ function SubmitScreen(props) {
           if (inputErr) setInputErr("");
         }}
         handleInputBlur={(e) => {
-          if (e.target.value < 2) {
-            setInputErr("Value must be greater than or equal to 2");
+          if (e.target.value < 25) {
+            setInputErr("Value must be greater than or equal to 25");
           }
         }}
         isIncrement
         isNumber
         handleIncrementClick={(value) => {
-          if (value < 1) {
-            setInputErr("Value must be greater than or equal to 2");
+          if (value < 24) {
+            setInputErr("Value must be greater than or equal to 25");
           } else if (inputErr) setInputErr("");
           props.setLoanAmount(value);
         }}
         inputErr={inputErr}
         handleDecrementClick={(value) => {
-          if (value <= 1) {
-            props.setLoanAmount(value - (value - 2));
-          } else props.setLoanAmount(value);
+          if (value <= 24) {
+            setInputErr("Value must be greater than or equal to 25");
+          } else{
+            if(inputErr) setInputErr('');
+            props.setLoanAmount(value);}
         }}
       />
       <CryptoDescrip
