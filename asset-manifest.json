@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/flashloan/static/css/main.bf576611.chunk.css",
-    "main.js": "/flashloan/static/js/main.697bea3f.chunk.js",
-    "main.js.map": "/flashloan/static/js/main.697bea3f.chunk.js.map",
-    "runtime-main.js": "/flashloan/static/js/runtime-main.be0d4fbc.js",
-    "runtime-main.js.map": "/flashloan/static/js/runtime-main.be0d4fbc.js.map",
-    "static/js/2.648a5ec1.chunk.js": "/flashloan/static/js/2.648a5ec1.chunk.js",
-    "static/js/2.648a5ec1.chunk.js.map": "/flashloan/static/js/2.648a5ec1.chunk.js.map",
-    "index.html": "/flashloan/index.html",
-    "static/css/main.bf576611.chunk.css.map": "/flashloan/static/css/main.bf576611.chunk.css.map",
-    "static/js/2.648a5ec1.chunk.js.LICENSE.txt": "/flashloan/static/js/2.648a5ec1.chunk.js.LICENSE.txt",
-    "static/media/bnbIcon.12f6ca37.png": "/flashloan/static/media/bnbIcon.12f6ca37.png",
-    "static/media/eth_icon.664d214a.png": "/flashloan/static/media/eth_icon.664d214a.png",
-    "static/media/flashyield.93debc7c.png": "/flashloan/static/media/flashyield.93debc7c.png",
-    "static/media/loader.f555f7b3.svg": "/flashloan/static/media/loader.f555f7b3.svg"
+    "main.css": "/flashyield/static/css/main.bf576611.chunk.css",
+    "main.js": "/flashyield/static/js/main.697bea3f.chunk.js",
+    "main.js.map": "/flashyield/static/js/main.697bea3f.chunk.js.map",
+    "runtime-main.js": "/flashyield/static/js/runtime-main.ad12c830.js",
+    "runtime-main.js.map": "/flashyield/static/js/runtime-main.ad12c830.js.map",
+    "static/js/2.7f29dc66.chunk.js": "/flashyield/static/js/2.7f29dc66.chunk.js",
+    "static/js/2.7f29dc66.chunk.js.map": "/flashyield/static/js/2.7f29dc66.chunk.js.map",
+    "index.html": "/flashyield/index.html",
+    "static/css/main.bf576611.chunk.css.map": "/flashyield/static/css/main.bf576611.chunk.css.map",
+    "static/js/2.7f29dc66.chunk.js.LICENSE.txt": "/flashyield/static/js/2.7f29dc66.chunk.js.LICENSE.txt",
+    "static/media/bnbIcon.12f6ca37.png": "/flashyield/static/media/bnbIcon.12f6ca37.png",
+    "static/media/eth_icon.664d214a.png": "/flashyield/static/media/eth_icon.664d214a.png",
+    "static/media/flashyield.93debc7c.png": "/flashyield/static/media/flashyield.93debc7c.png",
+    "static/media/loader.f555f7b3.svg": "/flashyield/static/media/loader.f555f7b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be0d4fbc.js",
-    "static/js/2.648a5ec1.chunk.js",
+    "static/js/runtime-main.ad12c830.js",
+    "static/js/2.7f29dc66.chunk.js",
     "static/css/main.bf576611.chunk.css",
     "static/js/main.697bea3f.chunk.js"
   ]
