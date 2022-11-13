@@ -34,7 +34,7 @@ function FormScreen(props) {
   const onFailure = (networkFail) => {
     if (networkFail === "UNSUPPORTED_NETWORK")
       setBtnErr(
-        "Unsupported network detected. Select a supported network in MetaMask and reload the page. \n\nSupported networks:\n- Ethereum Mainnet \n- Binance Smart Chain Mainnet"
+        "Unsupported network detected. Select a supported network in MetaMask and reload the page. \n\nSupported networks:\n- Arbitrum Mainnet \n- Optimism Mainnet"
       );
     setIsLoadingEstimate(false);
   };
@@ -42,11 +42,11 @@ function FormScreen(props) {
   const onInitiate = async () => {
     if (window.isBnb && props?.formData?.network) {
       setBtnErr(
-        "Network Mismatch. Set MetaMask network to Ethereum and reload the page."
+        "Network Mismatch. Set MetaMask network to Arbitrum and reload the page."
       );
     } else if (!window.isBnb && !props?.formData?.network) {
       setBtnErr(
-        "Network Mismatch. Set MetaMask network to Special Chain and reload the page."
+        "Network Mismatch. Set MetaMask network to Optimism and reload the page."
       );
     } else if (isFormFilled()) {
       setIsLoadingEstimate(true);
