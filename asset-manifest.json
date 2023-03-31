@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flashyield/static/css/main.bf576611.chunk.css",
-    "main.js": "/flashyield/static/js/main.132f0bdd.chunk.js",
-    "main.js.map": "/flashyield/static/js/main.132f0bdd.chunk.js.map",
+    "main.css": "/flashyield/static/css/main.359c3964.chunk.css",
+    "main.js": "/flashyield/static/js/main.269b706e.chunk.js",
+    "main.js.map": "/flashyield/static/js/main.269b706e.chunk.js.map",
     "runtime-main.js": "/flashyield/static/js/runtime-main.ad12c830.js",
     "runtime-main.js.map": "/flashyield/static/js/runtime-main.ad12c830.js.map",
-    "static/js/2.3e863efb.chunk.js": "/flashyield/static/js/2.3e863efb.chunk.js",
-    "static/js/2.3e863efb.chunk.js.map": "/flashyield/static/js/2.3e863efb.chunk.js.map",
+    "static/js/2.d0cb33d0.chunk.js": "/flashyield/static/js/2.d0cb33d0.chunk.js",
+    "static/js/2.d0cb33d0.chunk.js.map": "/flashyield/static/js/2.d0cb33d0.chunk.js.map",
     "index.html": "/flashyield/index.html",
-    "static/css/main.bf576611.chunk.css.map": "/flashyield/static/css/main.bf576611.chunk.css.map",
-    "static/js/2.3e863efb.chunk.js.LICENSE.txt": "/flashyield/static/js/2.3e863efb.chunk.js.LICENSE.txt",
+    "static/css/main.359c3964.chunk.css.map": "/flashyield/static/css/main.359c3964.chunk.css.map",
+    "static/js/2.d0cb33d0.chunk.js.LICENSE.txt": "/flashyield/static/js/2.d0cb33d0.chunk.js.LICENSE.txt",
     "static/media/bnbIcon.12f6ca37.png": "/flashyield/static/media/bnbIcon.12f6ca37.png",
     "static/media/eth_icon.664d214a.png": "/flashyield/static/media/eth_icon.664d214a.png",
     "static/media/flashyield.93debc7c.png": "/flashyield/static/media/flashyield.93debc7c.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ad12c830.js",
-    "static/js/2.3e863efb.chunk.js",
-    "static/css/main.bf576611.chunk.css",
-    "static/js/main.132f0bdd.chunk.js"
+    "static/js/2.d0cb33d0.chunk.js",
+    "static/css/main.359c3964.chunk.css",
+    "static/js/main.269b706e.chunk.js"
   ]
 }
