@@ -20,6 +20,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  REACT_APP_OEB: ${{ secrets.REACT_APP_OEB }}
+  REACT_APP_UBX: ${{ secrets.REACT_APP_UBX }}
+
 jobs:
   # Single deploy job since we're just deploying
   deploy:
